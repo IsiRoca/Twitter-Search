@@ -18,7 +18,7 @@ https://github.com/IsiRoca/Twitter-Search/archive/master.zip
 ```
 
 ### Get Twitter App Data ###
-First step, Get a "API consumer key" and "API OAuth Access Token" from Twitter.
+First step, get a "API consumer key" and "API OAuth Access Token" from Twitter.
 Sign in to the [Apps.Twitter.com](https://apps.twitter.com) page and register an application.
 
 ### Config your Data ###
@@ -38,7 +38,7 @@ $maxResponse = 3; // Max num results. Default = 3
 ```
 
 ## Contributing to Twitter Search ##
-If you have a patch, or stumbled upon an issue with GeoData Importer, you can contribute this back to the code
+If you have a patch, or stumbled upon an issue with Twitter Search, you can contribute this back to the code
 
 
 ## Copyright and License ##
